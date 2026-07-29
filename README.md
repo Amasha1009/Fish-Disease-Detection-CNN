@@ -107,9 +107,10 @@ Fish-Disease-Detection-CNN/
 
 ---
 
-## Author
+## Team MembersS
 
-ITBIN-2313-0032
+- E.M.H.A.K.Ekanayaka - ITBIN-2313-0032
+- G.D.H.Devindee - ITBIN-2313-0136
 
 BSc (Hons) in Information Technology
 
